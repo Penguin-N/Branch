@@ -7,3 +7,5 @@ df_body1.columns = ['mixture_ID','mixture_path','source_1_path','source_2_path',
 df3 = pd.concat([df_body1,df_body2],ignore_index=True)
 df3.to_csv('D:\VSCODE\SmartEar\Librimix\data.txt',index=False,sep=' ',header=None)
 print(df3)
+
+# 做一次修改
