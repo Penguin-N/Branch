@@ -9,3 +9,7 @@ df3.to_csv('D:\VSCODE\SmartEar\Librimix\data.txt',index=False,sep=' ',header=Non
 print(df3)
 
 # 做一次修改
+
+#做第二次修改
+
+#Git 真是个好应用
